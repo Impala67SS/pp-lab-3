@@ -1,4 +1,4 @@
-package Zad2;
+package geometry;
 public class Main {
     public static void main(String[] args) {
         Point center = new Point(10, 10);
