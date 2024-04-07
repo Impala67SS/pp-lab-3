@@ -1,4 +1,4 @@
-package Zad2;
+package geometry;
 
 public class Point {
                     private double x;
